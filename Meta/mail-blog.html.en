@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+
+<title>LangSci Press: Mail and Blog</title>
+
+<!--#include virtual="langsci-header.html"-->
+
+
+<h1>Mailing Lists and Blogs</h1>
+
+<p>
+If you want to be informed about any new developments, ideas, meetings, please <a href="sign/">subscribe to
+the Open Access Books in Linguistics Mailing
+List</a> (currently <!--#include file="oali-members-count.html"--> members).
+<p>
+The <a href="sign/">OALI-developers</a> list deals
+with all issues concerning the development of software for OALI (reviewing, versioning,
+gamification).
+<p>
+Frank Richter set up the <a href="http://www.frank-m-richter.de/freescienceblog/">Free Science Blog</a> where we can discuss issues related to OA (in linguistics).
+
+
+
+
+<!--#include virtual="langsci-footer-1.html"-->
+February, 7th, 2013<!--#include virtual="langsci-footer-2-counter.html"-->
+

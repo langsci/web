@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>LangSci Press: LaTeX Styles</title>
+
+<!--#include virtual="langsci-header.html"-->
+
+<h1><span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> Styles</h1>
+
+
+<p>
+OALI books will be typeset in <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span>. Authors can help the project to keep the costs low by
+submitting their books (not necessarily the initial manuscript) in <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> and by sticking to
+the styles provided by us.
+</p>
+<p>
+An initial draft of <a href="https://github.com/langsci/latex/blob/master/Guidelines/lsp-guidelines.pdf?raw=true">authors' guidelines and a <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> tutorial</a> is already available.
+</p>
+<p>
+We will use <a href="http://de.wikipedia.org/wiki/XeTeX"><span class="latex">X<sub><span class=revcap>e</span></sub>L<sup>a</sup>T<sub>e</sub>X</span></a> with the following packages:
+<ul>
+<li>tikz-qtree
+<li>adapted version of gb4e for glossed example sentence
+<li>references in BibTeX format
+</ul>
+The <a href="https://github.com/langsci/latex/"><code>langsci</code> class and further stylefiles</a> are available at GitHUB.
+</p>
+<p>
+For XML conversion and the production of e-books it is important to standardize the
+packages. Authors who need special packages should inform the coordinators of the project early
+on. We will then try to take care of the <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> to XML conversion. If you want to help with this, you
+may <a href="sign/">sign as a developer</a>.
+</p>
+
+<!--#include virtual="langsci-footer-1.html"-->
+February, 18th, 2013<!--#include virtual="langsci-footer-2-counter.html"-->

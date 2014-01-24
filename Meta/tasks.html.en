@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+
+<title>LangSci Press: Tasks</title>
+
+<!--#include virtual="langsci-header.html"-->
+
+
+<h1>Tasks</h1>
+
+<h2>Open Monograph Press</h2>
+
+<ol>
+<li>Flattr plugin that is added next to a book on the Share Tab
+<li>Language translation: German
+</ol>
+
+<h2>Web-Design</h2>
+
+<ol>
+<li>Specification of CSS styles according to web design specification
+</ol>
+
+<h2><span class="latex">L<sup>a</sup>T<sub>e</sub>X</span></h2>
+
+<ol>
+<li>Bib<span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> port <!--(Hedvig Skirgård)-->
+</ol>
+
+<!--#include virtual="langsci-footer-1.html"-->
+January 8th, 2014<!--#include virtual="langsci-footer-2-counter.html"-->
+

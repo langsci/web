@@ -1,0 +1,167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+
+<title>LangSci Press: Vision</title>
+
+
+<!--#include virtual="langsci-header.html"-->
+
+
+<h1>Vision</h1>
+
+<p>
+This page describes the plans that we have for 2014&ndash;2015. This page is an elaboration
+of <a href="http://hpsg.fu-berlin.de/~stefan/Pub/oa-jlm.html">Müller, 2012</a>. For a more detailed description refer to the <a href="http://hpsg.fu-berlin.de/~stefan/Pub/lsp-dfg.html">grant proposal</a>.
+
+
+
+<h2>New Possibilities</h2>
+
+<p>
+The new way of publishing opens up new possibilities for linguistics. For instance,
+theoretical work can be separated into a descriptive part and the analysis. The content of a book
+can be converted into a Wikipedia-like format and can be edited and improved by other
+researchers. It is thus possible to continuously extend our knowledge about a particular
+language. Books are snapshots of our knowledge at a given stage.
+<p>
+This new way of working allows researchers working in other frameworks to reuse the descriptive part
+and add their own analysis part to it. We would this get theories that cover similar data and can be
+compared. We thereby ensure that the field as such makes progress empirically and theoretically.
+
+<p>
+Digital publishing has certain advantages: The publications can be stored together with primary data
+and software. The projects
+of <a href="http://www.surf.nl/en/themas/openonderzoek/verrijktepublicaties/Pages/default.aspx">Enhanced
+    Digital Publication</a> show that there are entirely new possibilities. The
+Enhanced Digital Science project looked at various disciplines, also including linguistics. One
+project developed a dictionary for Berber that includes background information like pictures and
+articles from the press. Other useful combination of sources can easily be imagined for linguistics.
+For instance, one could connect a text to corpora and subcorpora that play a role in an analysis, one
+could include <a href="rec2/rec2.html">interactive example trees</a> that can be manipulated and modified by the reader since they are
+together with a piece of code that allows the folding and unfolding of the tree (click on the nodes in the <a href="rec2/rec2.html">example</a>). Usually fully worked out linguistic analyses are
+highly complex. It is the task of the author to simplify the analysis and highlight the most
+important aspects. However, in some situations the reader wants more or it is not obvious how
+several partial descriptions in a paper have to be fused into a coherent picture. Having a tree that
+contains all the details of an analysis but initially displays only the information that was marked as relevant
+by the author is extremely useful here.
+
+
+<h2><a name="formats">Formats</a></h2>
+
+<p>
+In order to provide fully searchable documents that are annotated for content, we have to provide
+the documents in the XML format. This is also necessary for producing e-books. The conversion of
+<span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> to XML is not trivial, but we hope to solve this problem for standard packages (glossed
+example sentences, trees, AVMs) in 2013&ndash;2014. The efforts will be coordinated at the FU
+Berlin. If you want to help the developers team, please <a href="sign/">register as a developer</a>.
+
+
+<h2><a name="community">Community Effort</a></h2>
+
+<p>
+We will start rather traditionally with OMP, that is, there will be series editors that determine
+at least two reviewers per book manuscript. Once a manuscript is accepted it is sent to the
+production stage with layout editing and proof reading. In the startup phase the German Grammar
+Group of the FU will take care of layout and proof reading. However, within the following two years we
+want to turn this into a community effort: OMP allows for the registration of reviewers and
+proofreaders and we hope to be able to get a number of volunteers that is high enough to guarantee
+short turnaround times. (<a href="sign/">Register as reviewer/proofreader</a> and see who else
+volunteered to work as <a href="review.html">reviewer</a> or <a href="proofreader.html">Proof
+  Reader</a>). Other disciplines show us that this can work. The
+journal <a href="http://www.qualitative-research.net/">Forum: Qualitative Social Research</a> has
+17,000 registered readers and 900 reviewers. They use the Open Journal System, an open source workflow system
+that was also developed by PKP for journals rather than monographs.
+
+<h2>Open Reviewing (optional) and Versioning (optional)</h2>
+
+<p>
+It is often the case that comments of reviewers significantly improve books. Some reviewers invest a
+ lot of time in reviewing. We will follow a suggestion by Pullum
+ (<a href="http://www.jstor.org/stable/10.2307/4047489">1984, Volume 2</a>, p.&nbsp;266) and publish
+ the names of the reviewers with the book, if reviewers want this (for incentives
+ see <a href="#gamification">gamification</a>). This approach is also taken by
+ the <a href="http://www.edition-open-access.de/">Edition Open Access</a> which is a book series run
+ by the Max Planck Research Library for the History and Development of Knowledge.  As Pullum pointed
+ out in his column, standing in for a publication with one's reputation ensures that reviewers take
+ reviewing seriously. But with the new ways of publishing we can take Pullum's ideas even
+ further. We can build a web of trust. We can set up reviewing systems that keep the original
+ submission of accepted manuscripts around and add the reviews. This can be done even if reviewers decide to stay
+ anonymous. It is done successfully in other disciplines as for instance in Geoscience, Economy, and Biology
+(<a href="http://dx.doi.org/10.3233/ISU-2008-0567">Pöschl and Koop, 2008</a>) (see for instance the
+ journal of <a href="http://www.atmos-chem-phys-discuss.net">Atmospheric Chemistry and Physics</a>).
+<p>
+In addition to the two reviewers that are determined by the series editors the whole community is
+free to comment on manuscripts. This will further improve the book.  
+<p>
+The advantages of such an open review process and versioning are:
+<ul>
+<li>full transparency
+<li>credit to the earliest published version of ideas
+<li>higher quality of submitted manuscripts
+<li>credit to the work of reviewers
+</ul>
+
+
+<h2><a name="gamification">Gamification</a></h2>
+
+<p>
+Open reviewing will be combined with aspects
+of <a href="http://en.wikipedia.org/wiki/Gamification">gamification</a>. Websites that use
+gamification give users points and awards for their activities. An example
+is <a href="http://stackexchange.com/">stackexchange.com</a>. They have a list of rated questions
+and answers and you get credits for asking and answering questions (<a href="http://tex.stackexchange.com/questions/82693/url-field-inherited-despite-separate-cross-reference-item">example</a>). So you can see who is an
+experienced user of this system. In addition to credits for your activity there are
+certain <a href="http://tex.stackexchange.com/badges">badges</a> that are awarded to users for
+reaching certain goals. For instance users get a badge for editing 500 posts. There are certain thresholds for user privileges that are assigned
+automatically by the system.
+<p>
+In our system points will be awarded for
+<ul>
+<li>submitting manuscripts
+<li>reviewing manuscripts (as a selected reviewer)
+<li>reviewing manuscripts (as a community member)
+<li>working in the advisory board
+<li>working as a series editor
+<li>proof reading
+</ul>
+While selected reviewers have to comment on the whole manuscript, community reviewers may comment on
+parts. The community may vote reviews both by selected and by community reviewers up.
+<p>
+Bonus points will be given for:
+<ul>
+<li>submissions of manuscripts to the open review process
+<li>speed of reviewing
+<li>transparency (anonymous publication of the review)
+<li>transparency (non-anonymous publication of the review)
+</ul>
+
+The gamification approach allows younger researchers to enter the game without being chosen as a
+reviewer by some series editor. PhD students often know their field very well, sometimes better than
+established researchers. An open reviewing system with community participation can activate additional
+expertise and add to the reputation of younger scientists. 
+<p>
+Of course the reviewing work that resulted in the rejection of manuscripts has to be credited without
+revealing the identity of the reviewer. Anonymity is a problem in the beginning only. It can be
+guaranteed by introducing delays for the respective gratification.
+
+<p>
+In the case of manuscripts of bad quality, that is, manuscripts that would require a lot of work on
+the reviewer's side, it could be the case that nobody is willing to review the manuscript. This can
+be either accepted by the author as a rejection or the author could increase the motivation for
+reviewing by setting a
+`<a href="http://meta.stackoverflow.com/questions/16065/how-does-the-bounty-system-work">bounty</a>'. Bounties
+can be set on systems like stackexchange to increase the priority of a question. Those who answer
+the question will get a bigger number of credit points and the person who asked the question has to
+`pay' with some of his or her credit points. If the manuscript has some good ideas in it, reviewers
+eventually will be willing to invest a lot of time in a manuscript. The extreme version of the
+`bounty' idea is of course co-authorship.
+<p>
+We plan to extend OMP by this functionality. The efforts will be coordinated at the FU
+Berlin. If you want to help the developers team, please <a href="sign/">register as a developer</a>.
+
+
+
+
+<!--#include virtual="langsci-footer-1.html"-->
+February, 11th, 2013<!--#include virtual="langsci-footer-2-counter.html"-->

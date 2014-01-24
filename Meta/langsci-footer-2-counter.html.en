@@ -1,0 +1,8 @@
+ <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a></div>
+	<div style="float: right;">Last modified: <!--#config timefmt="%B %d, %Y"--><!--#echo var="LAST_MODIFIED"-->,  <!--#exec cgi="/cgi-bin/counter.pl.cgi"--> hits</div></p>
+                    </div><!-- pkp_structure_content -->
+                </div><!-- pkp_structure_subfoot -->
+            </div><!-- pkp_structure_foot -->
+        </div><!-- pkp_structure_page -->
+    </body>
+</html>

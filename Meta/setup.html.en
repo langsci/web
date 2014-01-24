@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+<title>LangSci Press: Setup</title>
+ 
+
+<!--#include virtual="langsci-header.html"-->
+
+
+
+<h1>Setup</h1>
+
+<p>
+This page describes the setup of the initiative. It is an elaboration and concrete implementation of <a href="http://hpsg.fu-berlin.de/~stefan/Pub/oa-jlm.html">Müller, 2012</a>. See also <a href="http://hpsg.fu-berlin.de/~stefan/Pub/lsp-dfg.html">Müller and Haspelmath, 2013</a>. 
+
+<h2>Software and Infrastructure</h2>
+
+<p>
+We will use <a href="http://pkp.sfu.ca/omp">Open Monograph Press</a> (OMP) by
+the <a href="http://pkp.sfu.ca">Public Knowldege Project</a> (PKP) as software for editorial work
+and for providing the catalog of our books. The software and the files for the books will be hosted
+by the Freie Universität Berlin. The FU is a large university
+with <a href="http://www.fu-berlin.de/universitaet/leitbegriffe/zahlen/">app. 28,750
+  students</a> (05.12.2013) and has a highly professional team that takes care of the <a href="http://www.zedat.fu-berlin.de/Home">computing infrastructure</a>. 
+
+<h2>Quality Control</h2>
+
+<p>
+The <a href="board.html">Advisory Board</a> decides upon <a href="series.html">series
+  proposals</a>. Authors can submit their manuscripts through OMP to a certain series. Each
+  manuscript will be reviewed by at least two reviewers determined by the series
+  editors. See <a href="vision.html#community">Community Effort</a> for future plans.
+
+<h2>Publication Languages</h2>
+
+<p>
+In principle we are open to publications in all languages. However, series editors can restrict the
+languages in which they accept submissions.
+
+<h2>Publication Formats, Imprint and Citation</h2>
+
+<p>
+Books will be provided as PDFs and later also
+as <a href="http://en.wikipedia.org/wiki/E-book">e-books</a> and HTML (see <a href="vision.html#formats">formats</a>). Since e-books adapt the text
+to the size of the display of the reader, there are no citeable page numbers. Hence we will number
+paragraphs. Those can be cited independent of the medium.
+<p>
+Our publications will be cited as follows:
+<p>
+Müller, Max, 2015. <EM>A Grammar of Modern Sanskrit</EM>. Empirically Oriented Theoretical
+Morphosyntax,  No. 2145, Berlin: Language Science Press.
+<p>
+The books will be offered in our OMP catalogue. PDFs will be free and there will be links to Print
+On Demand services that offer good quality books for an affordable price. Books will also be
+distributed via amazon unless the author explicitly refrains from this option. 
+
+ 
+
+<h2>Typesetting</h2>
+
+<p>
+We accept submissions in <a href="http://de.libreoffice.org/">Libre Office</a> or MicroSoft Word but
+strongly prefer <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> submissions. We will provide <a href="latex-styles.html"><span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> templates</a> that ensure that complex
+typographical elements like trees, attribute value matrices, and OT tableaux are typeset
+correctly. Initial submissions have to be in PDF format.
+<p>
+<a href="word-to-latex.html">Word to <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> conversion</a> is the most expensive part of our way to
+produce books, so authors can help this project by <a href="https://github.com/langsci/latex/blob/master/Guidelines/lsp-guidelines.pdf?raw=true">learning <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span></a>. It will improve their workflow
+and the quality of their work.
+<p>
+See <a href="vision.html#formats">Formats</a> on further plans for producing XML and other formats.
+
+
+
+<h2>Storage, Catalogizing, Maintenance</h2>
+
+<p>
+The <a href="http://www.ub.fu-berlin.de/">FU Library</a> takes care of catalogizing the books that
+we produce and provides <a href="http://en.wikipedia.org/wiki/Isbn">ISBN</a>s
+and <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">DOI</a>s. The books will be
+stored on the document server of the FU, which is in the long term backup system and the safety of
+the data is guaranteed. In addition our library transfers copies of the files to
+the <a href="http://www.dnb.de">German National Library</a>, which also is responsible for long term
+archiving.
+
+
+
+
+
+
+<!--#include virtual="langsci-footer-1.html"-->
+February, 11th, 2013<!--#include virtual="langsci-footer-2-counter.html"-->

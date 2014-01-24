@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+
+<title>LangSci Press: Donations</title>
+<script type="text/javascript">
+/* <![CDATA[ */
+    (function() {
+        var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+        t.parentNode.insertBefore(s, t);
+    })();
+/* ]]> */
+</script>
+
+<!--#include virtual="langsci-header.html"-->
+
+
+<h1>Donations</h1>
+
+<p>
+What we need most is the help of the community. You can donate a bit of your time by working as
+a <a href="sign/">reviewer/typesetter/proof-reader</a> or, if you are an author, by <a href="latex-styles.html">typesetting your book</a>. But of course you can also donate money.
+</p>
+
+<h2>Money Raised/First Donation</h2>
+
+<p>
+Currently we have raised <b>3,153.33€</b> (updated with delay).
+</p>
+<p>
+Our first donator was Prof. Peter Bosch. He won a bouquet for being our supporter no. 100. He was so
+kind to donate to OALI the money the bouquet would have cost. So we have our first donation of <b>100€</b> (it would
+have been a big bouquet). Thank you very much! 
+</p>
+<p>
+The next prize is a bicycle worth 1000€ and will be rewarded to supporter no. 1000, provided she or
+he is willing to donate the money too.
+</p>
+
+
+<h2>Things Donations Can Be Used For</h2>
+
+<p>
+The project is hosted by the Freie Universität Berlin and many costs are already covered (storage of
+files, backup, cataloguing, ISBNs, DOIs, ...). However, there are certain initial costs and certain
+running costs. Initially we have to design a logo and the covers of the book series, extend software to include gamification aspects and
+versioning (see <a href="setup.html">Setup</a> and <a href="vision.html">Vision</a>). We have to write software to ensure a proper conversion of Microsoft Word documents to
+XML and <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> and conversion of <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> to XML. After these initial costs we have running costs for
+editorial tasks, software maintainance, and final proofreading. We are applying to
+the <a href="http://www.dfg.de/">DFG</a> for funding, but the results of the reviewing are expected for September 2013.
+</p>
+<p>
+These are estimated costs:
+<ul>
+<li>Typesetting a book, estimated 1000€ (depending on length and type of submission, converting Microsoft Word)
+<li>Hiring a student assistant for a year 14.000€
+<li>Hiring a person for a full time position 58.800€ (the sum for university internal calculations, the actual costs depend on the individual case)
+</ul>
+</p>
+
+<p>
+These are amounts of money you could donate:
+<ul>
+<li>2 € If every linguist that is subscribed to the <a href="http://linguistlist.org/">Linguist List</a> donates 2€, we can pay a full time position for one year.
+<li>100 € If ten people donate the amount of money you would pay for a book published by one of the
+    expensive publishers, we can produce a book that is freely availible
+    to <a href="http://en.wikipedia.org/wiki/Internet_access#Growth_in_number_of_users">more than 2.45 billion people</a>.
+<li>1000 € If fourteen people donated 1000€, we can produce fourteen books on a case by case basis
+  or hire a student to ensure continuity.
+<li>If you donate higher amounts, we can ...  
+</ul>
+</p>
+
+<h2>Flattr</h2>
+
+<p>
+Using <a href="http://flattr.com">Flattr</a> you can donate easily and you also may set up a subscription that transfers money every
+month. For instance you could decide to donate 2€ every month. This is the equivalent of one loaf of bread
+(if you live in wealthy countries). Needless to say, a constant payment of 0.20€ per month or even
+0.02€ would help as well.
+</p>
+<a class="FlattrButton" style="display:none;" rev="flattr;button:compact;" href="http://hpsg.fu-berlin.de/OALI/"></a>
+<noscript><a href="http://flattr.com/thing/1132440/Open-Access-in-Linguistics" target="_blank">
+<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a></noscript>
+
+
+<h2>Larger Sums</h2>
+
+<p>
+Donators who donate more than 5,000€ will be mentioned in the books, if they want to. Donators of
+amounts over 100€ will be listed on these web pages. It is possible to donate for a
+specific series and thereby to support research in a certain field.
+</p>
+<p>
+If you want to donate larger amounts of money,
+please <a href="mailto:stefan.mueller@fu-berlin.de">contact us</a>. Depending on the country you
+live in, it will be possible to get a reduction on your income taxes.
+</p>
+
+<h2>Bank Transfer</h2>
+
+<p>
+If you want to help us financially, please send money to:
+<pre>
+FU Berlin - Hauptkasse
+Kto Nr. 51 21 58 700
+Berliner Bank
+100 708 48
+
+IBAN: DE 35 10070848 0512158700
+Swift/BIC: DEUTDEDB110
+</pre>
+
+Please <b>state the code 0416077101</b> (Verwendungszweck), otherwise the money cannot be assigned to OALI.
+</p>
+
+<h2>Paypal/VISA</h2>
+
+<p>
+You can use PayPal to donate money. Even if you do not have a paypal account you can use your credit
+card to send money. Please keep in mind that paypal charges transaction fees (for donations 1,2% +
+0,35€). For instance when you donate 1€, only 0,63€ arrive. If you can do a regular bank transfer
+without (high) fees instead, please do so.
+</p>
+
+<p>&nbsp;</p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="VXYDW5CUX4VR8">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+
+
+<!--#include virtual="langsci-footer-1.html"-->
+February, 7th, 2013<!--#include virtual="langsci-footer-2-counter.html"-->

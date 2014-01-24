@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Language Science Community</title>
+
+
+<!--#include virtual="langsci-header.html"-->
+
+
+
+<!-- twitter -->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<!-- flattr -->
+<script type="text/javascript">
+/* <![CDATA[ */
+    (function() {
+        var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+        t.parentNode.insertBefore(s, t);
+    })();
+/* ]]> */
+</script>
+
+
+<!-- google -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+
+<!-- facebook -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<h1>LangSci Community</h1>
+
+<p>
+<a href="http://langsci-press.org">Language Science Press</a> is an imprint that grew out of the Open Access initiative OALI, which is
+coordinated by <a href="http://hpsg.fu-berlin.de/~stefan/">Stefan Müller</a> (and other linguists at FU Berlin)
+and <a href="http://www.eva.mpg.de/lingua/staff/haspelmath/home.php">Martin Haspelmath</a>. It
+started in August 2012 and quickly found <a href="sign/supporters">many prominent supporters</a>
+(more than 100 by now). Please refer to <a href="background.html">background and motivation</a> to
+learn more about the serious problems that we see with the traditional practice of book publication
+in our field.  An extended version of this document including detailed numbers and case studies can
+be found in <a href="/~stefan/Pub/oa-jlm.html">Müller, 2012</a>.
+</p>
+<p>
+Our <a href="setup.html">proposed solution</a> is open-access publication in which the (freely available) electronic book is
+the primary entity. Printed copies are available through print-on-demand services. We are planning
+to set up a publication unit at the FU Berlin, coordinated by Stefan Müller and Martin Haspelmath,
+that publishes high-quality book-length work from any subfield of linguistics.
+<p>
+You can help by <a href="sign/">registering as a reviewer</a> (<!--#include virtual="sign/num_reviewers"-->), <a href="sign/">typesetter</a>
+(<!--#include virtual="sign/num_typesetters"-->), <a href="sign/">proof-reader</a> (<!--#include virtual="sign/num_proofreaders"-->), <a href="sign/">developer</a> (<!--#include file="oali-developers-members-count.html"-->),
+simply <a href="sign/">sign as a supporter</a> (<!--#include virtual="sign/num_supporters"-->) or <a href="donate.html">donate</a>.
+<p>
+If you want to stay informed about developments and/or help develop software, please subscribe to
+our <a href="mail-blog.html">mailing lists</a>. The mailing lists are for announcements only, but
+general discussion is possible in Frank
+Richter's <a href="http://www.frank-m-richter.de/freescienceblog/">Free Science Blog</a>.
+<p>
+Thanks for joining us. Let's change the world!
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<a class="FlattrButton" style="display:none;" rev="flattr;button:compact;" href="http://hpsg.fu-berlin.de/OALI/"></a>
+<noscript><a href="http://flattr.com/thing/1132440/Open-Access-in-Linguistics" target="_blank">
+<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a></noscript>
+
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://hpsg.fu-berlin.de/OALI/" data-hashtags="oali">Tweet</a>
+
+<g:plusone size="medium"></g:plusone>
+<fb:like href="http://hpsg.fu-berlin.de/OALI/" layout="button_count" width="90" show_faces="true"></fb:like>
+
+
+
+
+
+<!--#include virtual="langsci-footer-1.html"-->
+August 21, 2012<!--#include virtual="langsci-footer-2-counter.html"-->

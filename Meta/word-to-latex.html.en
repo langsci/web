@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<title>LangSci Press: Microsoft Word to LaTeX Conversion</title>
+<!-- metatags -->
+  <meta name="author" CONTENT="Stefan Müller;Stefan.Mueller@fu-berlin.de">
+<!-- /metatags -->
+
+<link href="/layout/latex.css" type="text/css" rel="stylesheet">
+<!--#include virtual="/fu-layout/header-include.html"-->
+
+<!--#include virtual="/fu-layout/header-include-2.html"-->
+<!--#include virtual="fu-layout/navigation.html"-->
+
+
+<!-- Anfang Content -->
+<div id="baseContent">
+
+
+<!-- Anfang Mikronavigation (Navigations-Pfad zu Beginn des Seiteninhaltes) -->
+<div id="baseContainerNavigationToRoot">
+	<div class="baseNavigationToRoot">
+		<a href="/" title="Home Page">German Grammar &raquo;</a> <a href="./" title="OALI">LangSci Press Community &raquo;</a> Word -> <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span>
+	</Div>
+</div>
+<!-- Ende Mikronavigation -->
+
+<!-- Sprungmarke "inhalt" -->
+<a name="inhalt"></a>
+
+<!-- Anfang des Seiteninhaltes -->
+
+
+<h1>LangSci Press: Microsoft Word to <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> Conversion</h1>
+
+
+The most costly part of producing books is typesetting. We accept book submissions
+in <a href="http://www.libreoffice.org/">LibreOffice</a> or Microsoft Word. The submissions are
+required to strictly adhere to the guidelines that will be provided soon. The references have to be
+provided in a database like EndNote that allows BibTeX export.
+<p>
+We will use professional Word to <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> conversion software and write software for post-processing
+the output of these tools. We have <!--#include virtual="sign/num_typesetters"--> typesetters who
+volunteered to help with producing the final book. Typsetters who did actual work will be named on
+our web-page and in the books. In addition to those who volunteered, some of the series editors and the main
+organizers at the FU will take care of typesetting.
+
+
+
+<!-- Ende des Seiteninhaltes -->
+<!--#include virtual="/fu-layout/footer-inc-1.html"-->
+February, 18th, 2013<!--#include virtual="/~stefan/fu-layout/footer-inc-2-counter.html"-->

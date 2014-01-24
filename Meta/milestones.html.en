@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+
+<title>LangSci Press: Milestones</title>
+<!--#include virtual="langsci-header.html"-->
+
+<h1>Milestones</h1>
+
+<p>
+<a href="stats.html">Overview of series, pledges, submissions and forthcoming books</a>
+
+<ul>
+<li>21.01.2014: First approximation of new web-design implemented by Robert Forkel in CSS 
+<li>17.01.2014: Draft for web-design is finished (Ulrike Harbort).
+<li>15.01.2014: OALI has 400 registered <a href="sign/supporters">supporters</a>
+<li>19.12.2013: Language Science Press got a DFG grant over 576,989 € for two years (<a href="http://hpsg.fu-berlin.de/~stefan/Pub/lsp-dfg.html">grant proposal</a>).
+  Only two out of 17 projects are financed (11.76&#8201; % accaptance rate). 
+<p>
+The <a href="http://www.dfg.de/foerderung/info_wissenschaft/info_wissenschaft_13_70/">DFG Press
+    Release</a> says that the DFG Hauptausschuss considers the funded projects to be organizatorial
+  and technically convincing models for financing, publication, distribution and archiving
+  peer-reviewed high-quality open access monographs for their discipline and that these models can be
+  used by other disciplines as well. (`Die geförderten Vorhaben haben nach Ansicht des Hauptausschusses sowohl in organisatorischer als auch in technischer Hinsicht überzeugende Modelle zur Finanzierung, Publikation, Verbreitung und Archivierung von qualitätsgesicherten Open-Access-Monografien für ihr jeweiliges Fach vorgelegt, die auch von anderen Fächern nachgenutzt werden könnten.')
+<li>19.12.2013: First draft of a <a href="https://github.com/langsci/word">template for Word</a>
+  by <a href="http://www.linguistik.hu-berlin.de/staff/amyp">Antonio Machicao y Priemer</a>
+and <a href="http://user.phil-fak.uni-duesseldorf.de/~lichte/">Timm Lichte</a>
+  is in GitHub.
+<li>13.12.2013: First draft of new webdesign by Ulrike Harbort is in.
+<li>29.11.2013: Draft
+  of <a href="https://github.com/langsci/latex/blob/master/Guidelines/lsp-guidelines.pdf?raw=true">authors
+    and typesetters' guidelines</a> availible at <a href="https://github.com/langsci/latex/">GitHUB</a>
+<li>21.10.2013: New series <a href="http://langsci-press.org/catalog/series/LabPhon">Studies in Laboratory Phonology</a> by Martine Grice, Doris Mücke, Taehong Cho
+<li>22.09.2013: New series on <a href="http://langsci-press.org/catalog/series/Niger-Congo">Comparative Niger-Congo</a> by Valentin Vydrin, Larry Hyman, Konstantin
+  Pozdniakov, Guillaume Segerer, and John Watters
+<li>16.09.2013: New series <a href="http://langsci-press.org/catalog/series/LNLS">Lecture Notes in Language Sciences</a> by Martin Haspelmath and Stefan Müller
+<li>18.07.2013: Completion of <a href="Milestones/2013-07-18-poster.pdf">poster advertising Language Science Press</a> by Ulrike Harbort
+    <ul>
+    <li><a href="Milestones/2013-07-18-poster.pdf">pdf</a>
+    <li><a href="Milestones/2013-07-18-poster.eps">eps</a>
+    </ul>
+<li>12.07.2013: Completion of implementation of book design
+  in <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span>
+  by <a href="http://user.phil-fak.uni-duesseldorf.de/~lichte/">Timm Lichte</a>, <a href="http://www.llf.cnrs.fr/Gens/Crysmann/">Berthold Crysmann</a>, Stefan Müller, and Ulrike Harbort
+<ul>
+<li>Examples of the <a href="Milestones/langsci-colors.pdf">book covers showing the color climate</a>
+<li>Example of <a href="Milestones/2013-07-book-layout.pdf">book layout</a>
+<li><a href="https://github.com/langsci/latex/"><span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> classes</a> are availible via GitHUB
+<li>Documentation and tutorials will follow
+</ul>
+<li>03.06.2013: First submission to <a href="http://langsci-press.org/catalog/series/Theo-Mo-Syn">Empirically Oriented Theoretical Morphology and Syntax</a>
+<li>23.05.2013: Completion of book series design by Ulrike Harbort
+<li>08.05.2013: First submission to <a href="http://langsci-press.org/catalog/series/ALGD">African Language Grammars and Dictionaries</a>
+<li>29.04.2013: Establishment of <a href="http://langsci-press.org/">Language Science Press</a>
+<ul>
+<li>Completion of Open Monograph Press setup
+<li>the first four series are fully operative and accepting <a href="http://langsci-press.org/information/authors">submissions</a>
+    <ul>
+    <li><a href="http://langsci-press.org/catalog/series/ALGD">African Language Grammars and Dictionaries</a>
+    <li><a href="http://langsci-press.org/catalog/series/Theo-Mo-Syn">Empirically Oriented Theoretical Morphology and Syntax</a>
+    <li><a href="http://langsci-press.org/catalog/series/Diversity-Linguistics">Studies in Diversity Linguistics</a>
+    <li><a href="http://langsci-press.org/catalog/series/TMNLP">Translation and Multilingual Natural Language Processing</a>
+    </ul>
+</ul>
+<li>26.04.2013: OALI has 300 registered <a href="sign/supporters">supporters</a>
+<li>11.04.2013: Development of the color climate for the cover design and development of the logo by Ulrike Harbort
+<li>10.04.2013: Series proposals are evaluated by the <a href="board.html">Advisory Board</a>
+<li>14.03.2013: <a href="http://www.academia.edu/People/Open_Access_Books_in_Linguistics">100 followers</a> for OALI on Academia
+<li>09.03.2013: Decision on name of imprint
+<li>01.03.2013: Submission of <a href="http://hpsg.fu-berlin.de/~stefan/Pub/lsp-dfg.html">grant application</a> by Stefan Müller and Martin Haspelmath to the DFG program <a href="http://www.dfg.de/foerderung/info_wissenschaft/archiv/2012/info_wissenschaft_12_53/">Wissenschaftliche Monographien und monographische Serien im Open Access</a>
+<li>29.10.2012: <a href="kickoff.html">OALI Kickoff Meeting</a> at the FU in Berlin. 
+<li>26.08.2012: Martin Haspelmath joined
+<li>21.08.2012: Setup of the OALI web page and first emails to colleagues
+<li>08.06.2012: Meeting of Adele Goldberg, Thomas Herbst, Stefan Müller, and Anatol Stefanowitsch,
+where Anatol pointed out the existence of Amazon's Create Space. And although amazon was dropped
+later for several reasons, the existence of such an opportunity and the possibility to compare prices got the ball roling.
+
+</ul>
+
+
+New developments will be announced on the <a href="mail-blog.html">OALI Mailing List</a> and on <a href="https://twitter.com/intent/user?screen_name=StefanMuelller">Twitter</a>.
+
+
+<!--#include virtual="langsci-footer-1.html"-->
+July 12th, 2013<!--#include virtual="langsci-footer-2-counter.html"-->
