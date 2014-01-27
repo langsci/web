@@ -6,6 +6,61 @@
  *
  */
 
+@font-face {
+    font-family: 'Linux Libertine'; /* normal */
+    src: url('/Meta/fonts/LinLibertine_R.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Linux Libertine'; /* italic */
+    src: url('/Meta/fonts/LinLibertine_RI.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'Linux Libertine'; /* bold */
+    src: url('/Meta/fonts/LinLibertine_RB.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+body, span.blockTitle, h2, .h2, h3, .h3, h4, .h4 {
+  font-family: "Linux Libertine", arial !important;
+}
+.pkp_structure_head a {
+  font-family: arial !important;
+}
+h3, .h3,  h4, .h4 {
+  text-transform: none !important;
+}
+h1 {
+  margin-bottom: 0.3em;
+}
+h2, h3, h4 {
+  margin-bottom: 0.2em;
+}
+.pkp_structure_main {
+  font-size: 16px !important;
+  line-height: 20px !important;
+}
+.pkp_structure_sidebar {
+  font-size: 14px !important;
+  line-height: 18px !important;
+}
+p {
+  line-height: 20px !important;
+}
+/*
+.pkp_structure_main a {
+  font-size: 14px !important;
+}
+a[href] {font-family: arial !important;}
+*/
+
 .pkp_structure_main li {
   /* hack to avoid cutting off part of the bullet: */
   list-style-position: inside;
@@ -14,11 +69,25 @@
 /* St. Mü. */
 
 .pkp_structure_main ul li {
-     padding-left: 1em ; /* St. Mü. */
+     padding-left: 0.5em ; /* St. Mü. */
 }
- 
+
 .pkp_structure_main ol li {
-     padding-left: 1em ; /* St. Mü. */
+     padding-left: 0.5em ; /* St. Mü. */
+}
+
+/*
+
+http://stackoverflow.com/questions/10874352/hide-the-word-followers-from-twitter-follow-button
+
+*/
+
+#titter-div {
+    border-radius: 4px; /* to mimic the curved edges of the count box */
+    border-right: 1px solid #AAAAAA; /* this is the width and color of the count box border */
+    height: 20px; /* this height works for the medium button */
+    width: 60px; /* precise width to hide the word */
+    overflow: hidden; /* actually hides the word */
 }
 
 
@@ -35,18 +104,26 @@ Robert Forkel, 20.01.2014
 */
 a[name] {
     color: black;
-} 
+}
 
 
 
- .pkp_structure_main ul li, .pkp_structure_main ol ul li {
+.pkp_structure_main ul li, .pkp_structure_main ol ul li {
 list-style-type : disc ;
 }
- 
+
+.pkp_structure_main #spotlightsHome ul li {
+  list-style-type : none;
+}
+
+.pkp_structure_main #spotlightsHome ul li {
+  padding-left: 0;
+}
+
 .pkp_structure_main ol li, .pkp_structure_main ul ol li {
 list-style-type : decimal ;
-} 
-  
+}
+
 
 body, .pkp_structure_foot, .pkp_structure_head, .pkp_structure_masthead { background-color: #63bee1 !important; }
 .sf-menu li li { background-color: #63bee1 !important; }
@@ -126,11 +203,11 @@ ul.sf-menu li:first-child {
 }
 
 ul.sf-menu li:nth-child(2) {
-    background-color: #005680;
+    background-color: #005678;
 }
 
 ul.sf-menu li:nth-child(3) {
-    background-color: #f39400;
+    background-color: #f29400;
 }
 
 ul.sf-menu li:nth-child(4) {
