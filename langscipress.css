@@ -64,7 +64,8 @@ a[href] {font-family: arial !important;}
 
 .pkp_structure_main li {
   /* hack to avoid cutting off part of the bullet: */
-  list-style-position: inside;
+  /* list-style-position: inside; */
+  margin-left: 1em;
 }
 
 /* St. Mü. */
