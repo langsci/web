@@ -128,7 +128,10 @@ list-style-type : decimal ;
 
 
 body, .pkp_structure_foot, .pkp_structure_head, .pkp_structure_masthead { background-color: #63bee1 !important; }
-.sf-menu li li { background-color: #63bee1 !important; }
+.sf-menu li li { 
+    background-color: #63bee1 !important; 
+    height: auto !important;
+}
 .pkp_structure_foot { color: white; }
 .pkp_structure_foot img.pkp_helpers_align_right { display: none; }
 .pkp_structure_body { border-bottom: none !important; background-color: #d0ecf6 !important; margin-bottom: 0 !important;}
