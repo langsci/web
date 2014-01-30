@@ -113,7 +113,7 @@ a[name] {
 list-style-type : disc ;
 }
 
-.pkp_structure_main #spotlightsHome ul li {
+.pkp_structure_main #spotlightsHome ul li, #monographListContainer ul li {
   list-style-type : none;
 }
 
