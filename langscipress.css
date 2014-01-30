@@ -6,6 +6,22 @@
  *
  */
 
+/* default, english */ 
+q:before, q[lang|="en"]:before, q:lang(en):before { content: "\201C"; } 
+q:after, q[lang|="en"]:after, q:lang(en):after { content: "\201D"; } 
+q q:before, q[lang|="en"] q:before, q:lang(en) q:before { content: "\2018"; } 
+q q:after, q[lang|="en"] q:after, q:lang(en) q:after { content: "\2019"; } 
+
+/* german */ 
+q[lang|="de"]:before,   q:lang(de):before   { content: "\201E"; } 
+q[lang|="de"]:after,    q:lang(de):after    { content: "\201C"; } 
+q[lang|="de"] q:before, q:lang(de) q:before { content: "\201A"; } 
+q[lang|="de"] q:after,  q:lang(de) q:after  { content: "\2018"; } 
+
+/* japanese */ 
+q[lang|="ja"]:before, q:lang(ja):before { content: "\300C"; } 
+q[lang|="ja"]:after, q:lang(ja):after { content: "\300D"; }
+
 @font-face {
     font-family: 'Linux Libertine'; /* normal */
     src: url('/Meta/fonts/LinLibertine_R.woff') format('woff');
