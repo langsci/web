@@ -62,7 +62,7 @@ h2, h3, h4 {
 }
 .pkp_structure_main {
   font-size: 16px !important;
-  line-height: 20px !important;
+/*   line-height: 20px !important; */
 }
 .pkp_structure_sidebar {
   font-size: 14px !important;
