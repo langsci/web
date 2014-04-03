@@ -150,10 +150,10 @@ body, .pkp_structure_foot, .pkp_structure_head, .pkp_structure_masthead { backgr
     background-color: #63bee1 !important; 
     height: auto !important;
 }
-.pkp_structure_foot { color: white; }
+.pkp_structure_foot { color: white;}
 .pkp_structure_foot img.pkp_helpers_align_right { display: none; }
 .pkp_structure_body { border-bottom: none !important; background-color: #d0ecf6 !important; margin-bottom: 0 !important;}
-.pkp_structure_subfoot { border-top: none !important; }
+.pkp_structure_subfoot { border-top: none !important; position:relative !important; }
 .pkp_structure_head_siteNav {
     border-color: #63bee1 !important;
 }
@@ -235,4 +235,16 @@ ul.sf-menu li:nth-child(3) {
 
 ul.sf-menu li:nth-child(4) {
     background-color: #b1c800;
+}
+ 
+.lsp-sm{
+  display:inline;
+}
+
+.lsp-footer-info{
+  float:left;
+}
+
+.lsp-footer-sm{
+  float:right;
 }
