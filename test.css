@@ -62,7 +62,7 @@ h2, h3, h4 {
 }
 .pkp_structure_main {
   font-size: 16px !important;
-/*   line-height: 20px !important; */
+  line-height: 20px !important;
 }
 .pkp_structure_sidebar {
   font-size: 14px !important;
@@ -150,10 +150,10 @@ body, .pkp_structure_foot, .pkp_structure_head, .pkp_structure_masthead { backgr
     background-color: #63bee1 !important; 
     height: auto !important;
 }
-.pkp_structure_foot { color: white;}
+.pkp_structure_foot { color: white; }
 .pkp_structure_foot img.pkp_helpers_align_right { display: none; }
 .pkp_structure_body { border-bottom: none !important; background-color: #d0ecf6 !important; margin-bottom: 0 !important;}
-.pkp_structure_subfoot { border-top: none !important; position:relative !important; }
+.pkp_structure_subfoot { border-top: none !important; }
 .pkp_structure_head_siteNav {
     border-color: #63bee1 !important;
 }
@@ -235,63 +235,4 @@ ul.sf-menu li:nth-child(3) {
 
 ul.sf-menu li:nth-child(4) {
     background-color: #b1c800;
-}
- 
-.lsp-sm{
-  display:inline;
-}
-
-.lsp-footer-info{
-  float:left;
-}
-
-.lsp-footer-sm{
-  float:right;
-}
-
-.b6{
-  border-collapse:inherit !important; /*fix G+ size*/
-}
-
-
-.ui-tabs .ui-tabs-nav li:hover{
-    border: 1px double #ddddff;
-    box-shadow: 1px 1px 2px 2px; 
-}
-
-
-.ui-tabs .ui-tabs-nav li a{
-  padding: 0.5em 0.5em !important;
-}
-
-.ui-tabs-selected{
-  border-radius: 5px 5px 0px 0px !important;
-}
-
-.lsp-h2{
-  font-weight:bold;
-  display:block;
-}
-
-a{
-  cursor:pointer;
-}
-
- /*very evil hack to introduce own CSS into GUI-HTML editor's gory output*/
-.pkp_catalog_seriesDescription ol li{
-    border-bottom: 1px dashed #808080;
-    display: block; 
-    font-size: 120%;
-    font-weight: bold;
-    list-style: none outside none;
-    margin-left: -20px;
-    margin-top: 20px;
-}
-
-.pkp_catalog_seriesDescription p{
-  margin-left:10px;
-}
-
-.pkp_catalog_seriesDescription ul{
-  margin-left:10px;
 }
