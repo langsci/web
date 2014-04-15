@@ -254,9 +254,10 @@ ul.sf-menu li:nth-child(4) {
 }
 
 
-.ui-tabs .ui-tabs-nav li:hover{
-    border: 1px double #ddddff;
-    box-shadow: 1px 1px 2px 2px; 
+.ui-tabs .ui-tabs-nav li:hover{ 
+    border: 1px double #DDDDFF;
+    box-shadow: 1px 1px 0px 0px;
+    border-radius: 5px 5px 0 0 ;
 }
 
 
@@ -295,3 +296,20 @@ a{
 .pkp_catalog_seriesDescription ul{
   margin-left:10px;
 }
+
+.submission_actions li{
+  list-style: none !important;
+}
+
+/*.ui-tabs-nav{
+ border-width: 0 0 0 !important;
+}
+
+.ui-tabs .ui-tabs-nav li{
+  border-bottom:1px solid gray !important;
+}
+
+.ui-tabs-nav li.ui-state-active{ 
+  border-bottom:0px solid gray !important;
+}*/
+
