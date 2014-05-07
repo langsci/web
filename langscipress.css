@@ -239,6 +239,7 @@ ul.sf-menu li:nth-child(4) {
  
 .lsp-sm{
   display:inline;
+  margin:2px;
 }
 
 .lsp-footer-info{
@@ -280,17 +281,27 @@ a{
 
  /*very evil hack to introduce own CSS into GUI-HTML editor's gory output*/
 .pkp_catalog_seriesDescription ol li{
-    border-bottom: 1px dashed #808080;
+    border-bottom: 1px solid #92D2EA;
     display: block; 
     font-size: 120%;
     font-weight: bold;
-    list-style: none outside none;
-    margin-left: -20px;
+    list-style: none outside none; 
     margin-top: 20px;
+    width: 250px;
+}
+
+.pkp_catalog_seriesDescription h3{
+    border-bottom: 1px solid #92D2EA;
+    display: block; 
+    font-size: 120%;
+    font-weight: bold;
+    list-style: none outside none; 
+    margin-top: 20px;
+    width: 250px;
 }
 
 .pkp_catalog_seriesDescription p{
-  margin-left:10px;
+  margin-left:30px;
 }
 
 .pkp_catalog_seriesDescription ul{
@@ -312,4 +323,32 @@ a{
 .ui-tabs-nav li.ui-state-active{ 
   border-bottom:0px solid gray !important;
 }*/
+
+.pkp_catalog_seriesDescription{
+  padding-left:20px;
+  padding-right:20px;
+}
+
+#twitter-widget-0{
+  width:55px!important;
+}
+
+#twitter-widget-1{
+  width:140px!important;
+}
+
+#sm-facebook {
+    position: relative;
+    top: -3px;
+}
+
+#___plusone_0{
+  position:relative;
+  top:4px;
+}
+
+#button{
+  top:4px;
+  height:20px;
+}
 
