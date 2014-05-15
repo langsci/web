@@ -352,3 +352,15 @@ a{
   height:20px;
 }
 
+.statsrow {
+    border-left: 5px solid;
+    border-right: 5px solid;
+}
+
+.statsrow td {
+    border-collapse: separate;
+    border-style: dotted;
+    border-width: 1px;
+    padding: 5px;
+}
+
