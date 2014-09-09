@@ -364,3 +364,49 @@ a{
     padding: 5px;
 }
 
+
+.submission_progress{
+  padding: 12px 2px;    
+  border-bottom: 1px solid #ddd;
+  border-radius: 3px;
+  border-top: 1px solid #ddd;
+  background:#d0ecf6;
+}
+
+
+.submission_progress li{
+  background:#00a5db;  
+  background-image:none !important;
+  border-radius: 0 15px 15px 0;
+  border-right: 3px solid #005678;
+}
+ 
+.submission_progress li.current{
+  background: #005678 !important;
+  font-size: 12px !important;
+}
+
+.submission_progress li.complete{
+  background: #b1c800 !important;
+  font-size: 12px !important;
+}
+
+.submission_progress li.productionReady{
+  background: #b1c800 !important;
+  font-size: 12px !important;
+}
+
+.submission_progress li a{
+   font-family: "Linux Libertine", Arial, Helvetica, sans serif !important
+}
+  
+.submission_progress li a:after{
+  content:"";
+}
+ 
+.submission_progress li.current a{
+  font-size:16pt;
+}
+ 
+ 
+ 
