@@ -365,7 +365,7 @@ a{
 }
 
 
-.submission_progress{
+.pkp_page_header .submission_progress{
   padding: 12px 2px;    
   border-bottom: 1px solid #ddd;
   border-radius: 3px;
@@ -374,39 +374,59 @@ a{
 }
 
 
-.submission_progress li{
+.pkp_page_header .submission_progress li{
   background:#00a5db;  
   background-image:none !important;
   border-radius: 0 15px 15px 0;
   border-right: 3px solid #005678;
 }
  
-.submission_progress li.current{
+.pkp_page_header .submission_progress li.current{
   background: #005678 !important;
   font-size: 12px !important;
 }
 
-.submission_progress li.complete{
+.pkp_page_header .submission_progress li.complete{
   background: #b1c800 !important;
   font-size: 12px !important;
 }
 
-.submission_progress li.productionReady{
+.pkp_page_header .submission_progress li.complete a:after{
+  content:"✓"
+}
+
+.pkp_page_header .submission_progress li.productionReady{
+  background-image:none !important;
   background: #b1c800 !important;
   font-size: 12px !important;
 }
 
-.submission_progress li a{
-   font-family: "Linux Libertine", Arial, Helvetica, sans serif !important
+.pkp_page_header .submission_progress li.productionReady{
+  content:"★"
+}
+
+.pkp_page_header .submission_progress li a{
+   font-family:  Arial, Helvetica, sans serif !important; 
 }
   
-.submission_progress li a:after{
-  content:"";
+.pkp_page_header .submission_progress li a:after {
+  content:none !important;
 }
  
-.submission_progress li.current a{
-  font-size:16pt;
-}
  
+/* ----- book info page -------  */
+/*Display all content on one page without need to use
+javascript for additional content*/
+#bookInfoTabs .ui-tabs-nav li{
+ display:none !important;
+}
+
+#bookInfoTabs #abstractTab{
+ display:block;
+}
+
+#bookInfoTabs #sharingTab{
+ display:block;
+}
  
  
