@@ -422,11 +422,15 @@ javascript for additional content*/
 }
 
 #bookInfoTabs #abstractTab{
- display:block;
+ display:block !important;
 }
 
 #bookInfoTabs #sharingTab{
- display:block;
+ display:none;
+}
+
+#bookInfoTabs #downloadTab{
+ display:block !important;
 }
  
  
